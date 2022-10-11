@@ -1,0 +1,6 @@
+print("ID:473893659865831")
+print("Name: Deboshmi Roy")
+print("Date of birth:21st September 2010")
+print("Pin no. 732101")
+print("Address: Malda,West Bengal")
+print("Authorisation to drive the following vehicles: two four")
